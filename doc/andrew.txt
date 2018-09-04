@@ -1,0 +1,10 @@
+abc
+“Andrew, Homework 1”
+Classroom workstation setup.pdf
+Course Syllabus.pages
+Course Syllabus.pages.pdf
+Datasets
+Homework
+Lecture Notes
+README.md
+Worksheets
